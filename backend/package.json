@@ -1,0 +1,11 @@
+{
+  "name": "backen-experts",
+  "version": "1.0.0",
+  "description": "Encuentra freelancers en el mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
