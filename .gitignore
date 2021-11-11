@@ -5,6 +5,7 @@
 .idea
 **/node_modules/*
 **/.firebaserc
+experts1-a54cb-dc6d5be7ec36.json
 
 ### Firebase Patch ###
 .runtimeconfig.json
